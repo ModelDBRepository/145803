@@ -1,0 +1,27 @@
+Exemple of  conductances constantes at fig 4 in article A
+
+1) The units are in  SI
+
+2) The file ``Parametres`` content the paramaters of
+cell + the threshold remove of singularities.
+This is a vector line
+
+order in vecteur
+
+1- gL conductance leak
+2 -Ee potentiel inverse excitators
+3 -Ei potentiel inverse inhibitors
+4 -EL potentiel inverse leak
+5 -C capacitance
+6 - limita (the threshold remove of singularities of g_alpha)
+7 - limitb (the threshold remove of singularities of g_beta)
+8 - tension to initialize time
+
+
+Claude B\'edard, Sebastien B\'ehuret, Charlotte Deleuze,
+Thierry Bal \& Alain Destexhe\footnote{Corresponding author.  Tel:
++33 1 69 82 34 35, Fax: +33 1 69 82 34 35, Email:
+Destexhe@unic.cnrs-gif.fr}  \\
+Unit\'e de Neurosciences,
+Information et Complexit\'e (UNIC), \\ CNRS, 91198 Gif-sur-Yvette,
+France
